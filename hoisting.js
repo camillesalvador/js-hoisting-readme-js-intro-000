@@ -21,8 +21,8 @@ function sayMyName() {
 
   sayMy();
 
-  function sayMy() {
+  function sayMy(name) {
     console.log(name);
-    var name = "Kristin";
+    //var name = "Kristin";
   }
 }
